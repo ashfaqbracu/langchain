@@ -9,3 +9,5 @@ PyMuPDF
 wikipedia
 langchain-text-splitters
 chromadb
+langchain-openai
+langchain_groq
